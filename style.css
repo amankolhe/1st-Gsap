@@ -39,6 +39,7 @@ html,body{
     margin-left: 10%;
     position: relative;
     z-index: 9;
+    color: rgba(255, 255, 255, 0.657);
     }
     .main h1:nth-child(2){
         margin-top: 300px;
