@@ -13,3 +13,12 @@ tl.from(".main h1",{
     duration:0.8,
     stagger:0.4,
 })
+
+tl.from("img",{
+    opacity:0,
+    x:100,
+    rotate:45,
+    duration:0.5,
+    stagger:0.5,
+})
+
